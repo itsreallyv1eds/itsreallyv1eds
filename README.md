@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: i have a tg channel: @babaieb
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demndevel&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demndevel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
