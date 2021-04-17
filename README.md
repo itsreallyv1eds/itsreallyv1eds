@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: what?
 - ⚡ Fun fact: i have a tg channel: @babaieb
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demndevel)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demndevel&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
