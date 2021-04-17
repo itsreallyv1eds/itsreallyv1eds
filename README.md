@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on all projects.
-- 🌱 I’m currently learning csharp.
+- 🌱 I’m currently learning csharp and android development.
 - 👯 I’m looking to collaborate on nothing.
 - 🤔 I’m looking for help with nothing.
 - 💬 Ask me about ok.
