@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ok.
 - 📫 How to reach me: @demonatidev
 - 😄 Pronouns: what?
-- ⚡ Fun fact: i have a tg channel: @babaieb
+- ⚡ Fun fact: i have a tg channel: @babaieb_channel
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demndevel&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demndevel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
