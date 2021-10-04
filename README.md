@@ -10,5 +10,4 @@
 - ⚡ Fun fact: i have a tg channel: @baba1ed
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demndevel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demndevel&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demndevel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
