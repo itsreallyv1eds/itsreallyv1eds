@@ -1,13 +1,9 @@
-### Bye bye there 👋
+### Всем здравствуйте 👋
+Я Владислав, в простонародье виедс, мне 16 лет, учусь на кого угодно.
 
-<!--
-**demndevel/demndevel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-в говне я крч
-
-- 🌱 I’m currently learning golang.
-- 💬 Ask me about ok.
-- 📫 How to reach me: @demndevel
-- ⚡ Fun fact: i have a tg channel: @baba1ed
+- 🌱 Сейчас я изучаю Python и HTML
+- 📫 Вся остальная информация у меня в тг: @v1edsinfo
+- ⚡ Интересный факт, я сделал свой первый сайт за 3 дня: itsv1eds.site
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demndevel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsreallyv1eds&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
