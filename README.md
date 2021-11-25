@@ -7,4 +7,4 @@ I'm Vladislav, in Russian i'm `виедс`, I'm `16 years old`, learning from an
 - ⚡ Interesting fact, `I made my first website` in 3 days: [itsv1eds.site](https://itsv1eds.site)!
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsreallyv1eds&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?itsreallyv1eds&show_icons=true&theme=radical)
