@@ -1,9 +1,10 @@
-### Всем здравствуйте 👋
-Я Владислав, в простонародье виедс, мне 16 лет, учусь на кого угодно.
+### Hello there!👋
+I'm Vladislav, in Russian i'm `виедс`, I'm `16 years old`, learning from anyone.
 
-- 🌱 Сейчас я изучаю Python и HTML
-- 📫 Вся остальная информация у меня в тг: @v1edsinfo
-- ⚡ Интересный факт, я сделал свой первый сайт за 3 дня: itsv1eds.site!
+- 🌱 I am currently learning `Python and HTML`
+- At the moment, I am the `developer` of [ExteraGram](itsv1eds.ru/exteragram)
+- 📫 All other information in my tg: `@ v1edsinfo`
+- ⚡ Interesting fact, `I made my first website` in 3 days: itsv1eds.site!
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsreallyv1eds&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
