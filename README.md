@@ -1,5 +1,5 @@
 ### Hello there!👋
-I'm Vladislav, in Russian i'm `виедс`, I'm `16 years old`, learning from anyone.
+I'm Vladislav, in Russian i'm `виедс`, I'm `17 years old`, learning from anyone.
 
 - 🌱 I am currently learning `Python and HTML`
 - At the moment, I am the `developer` of [exteraGram](https://itsv1eds.ru/exteragram)
