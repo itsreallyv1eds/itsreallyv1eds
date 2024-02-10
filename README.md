@@ -4,6 +4,7 @@ I'm Vladislav or itsv1eds, my nickname in Russian sounds like `виедс`, I'm 
 - 🌱 I am currently learning `Python and Java`
 - 💻 Owner of `MacBook Air (2020) M1 8/256`
 - ⚡ Interesting fact, `I made my first website` in 3 days: [itsv1eds.ru](https://itsv1eds.ru)!
+- ☎️ At the moment, I'm working on an [exteraGram](https://exteragram.app)
 - 📫 All other information in my telegram: `@v1edsinfo`
 - ⛏️ My alt account is [itsnotv1eds](https://github.com/itsnotv1eds), if something happens to it
 ### My stats:
