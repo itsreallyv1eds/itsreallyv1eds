@@ -1,5 +1,5 @@
 ### Greetings, hello and hi to everyone! 👋
-I'm Vladislav or itsv1eds, my nickname in Russian sounds like `виедс`, I'm `18 years old`, learning from anyone.
+I'm Vladislav or itsv1eds, my nickname in Russian sounds like `виедс`, I'm `19 years old`, learning from anyone.
 
 - 🌱 I am currently learning `Python and Java`
 - 💻 Owner of `MacBook Air (2020) M1 8/256`
